@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![vwowv‘s github stats](https://github-readme-stats.vercel.app/api?username=vwowv&show_icons=true&theme=Gradient&count_private=true)](https://github.com/vwowv/vwowv)
+[![vwowv‘s github stats](https://github-readme-stats.vercel.app/api?username=vwowv&show_icons=true&theme=gradient&count_private=true)](https://github.com/vwowv/vwowv)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vwowv&layout=compact)](https://github.com/vwowv/vwowv)
 [![vwowv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vwowv)](https://github.com/vwowv/vwowv)
 
