@@ -2,7 +2,7 @@
 
 [![vwowv‘s github stats](https://github-readme-stats.vercel.app/api?username=vwowv&show_icons=true&theme=Gradient&count_private=true)](https://github.com/vwowv/vwowv)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vwowv&layout=compact)](https://github.com/vwowv/vwowv)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vwowv)](https://github.com/vwowv/vwowv)
+[![vwowv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vwowv)](https://github.com/vwowv/vwowv)
 
 <!--
 **vwowv/vwowv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
