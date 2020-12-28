@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![vwowv‘s github stats](https://github-readme-stats.vercel.app/api?username=vwowv)](https://github.com/vwowv/vwowv)
+[![vwowv‘s github stats](https://vwowv-readme-stats.vercel.app/api?username=vwowv)](https://github.com/vwowv/vwowv)
 
 <!--
 **vwowv/vwowv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
